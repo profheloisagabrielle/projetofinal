@@ -1,16 +1,17 @@
-TASKS PADR肙
+TASKS PADR脙O
 
 DEV
--Clonar reposit髍io do github
+-Clonar reposit贸rio do github
 -Criar branch com base na main 
--Realizar modifica珲es
+-Realizar modifica莽玫es
 -Testar
 -Atualizar branch remota
 -Mover item para fila QA
 
 QA
--Clonar branch do item
+-Clonar reposit贸rio do github
+-Acessar branch do item
 -Testar
--Criar relat髍io com casos de teste no Word(Com prints de tela)
--Anexar relat髍io de testes nos coment醨ios do item.
+-Criar relat贸rio com casos de teste no Word
+-Anexar relat贸rio de testes nos coment谩rios do item.
 -Mover item para Em andamento/Finalizado.
