@@ -1,0 +1,16 @@
+TASKS PADRÃO
+
+DEV
+-Clonar repositório do github
+-Criar branch com base na main 
+-Realizar modificações
+-Testar
+-Atualizar branch remota
+-Mover item para fila QA
+
+QA
+-Clonar branch do item
+-Testar
+-Criar relatório com casos de teste no Word(Com prints de tela)
+-Anexar relatório de testes nos comentários do item.
+-Mover item para Em andamento/Finalizado.
