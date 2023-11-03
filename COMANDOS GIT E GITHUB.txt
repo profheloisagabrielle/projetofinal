@@ -1,25 +1,27 @@
 Para trabalhar com git e github
 
-Para criar a branch
+Para criar a branch localmente e enviar para o github
 
 -git clone urldoprojeto 
 -cd nomepastaprojeto
 -git checkout -b nomedabranch(dev-requisito)
 -git config --global user.name "seunomegithub"
--git commit -m "Criação de branck para task requisito"
+-git commit -m "CriaÃ§Ã£o de branck para task requisito"
 -git add .
 -git push origin nomedabranch
 
 
-Para trabalhar com uma branch já criada
+Para trabalhar com uma branch remota existente
 
 -git clone urldoprojeto
 -git config --global user.name "seunomegithub"
 -cd nomepastaprojeto
 -git checkout nomedabranch
 
-Para enviar alterações para uma branch
+
+Para enviar alteraÃ§Ãµes da branch local para a branch remota
+
 -git config --global user.name "seunomegithub"
--git commit -m "informações a alteração realizada"
+-git commit -m "informaÃ§Ãµes a alteraÃ§Ã£o realizada"
 -git add .
 -git push origin nomedabranch
