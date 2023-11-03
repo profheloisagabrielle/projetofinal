@@ -13,13 +13,15 @@ Término: 27/11/2023
 Entrega: 29/11/2023  
 Apresentação: 01/12/2023  
 
-## Sprints
-### Sprint1: 30/10/2023 à 10/11/2023  
--Sprint Planning: 30/10/2023
--Sprint Review e Deployment: 08/11/2023
--Sprint Retrospective: 10/11/2023
+## Cronograma Sprints
+### Sprint1 
+Período: 30/10/2023 à 10/11/2023    
+-Sprint Planning: 30/10/2023  
+-Sprint Review e Deployment: 08/11/2023  
+-Sprint Retrospective: 10/11/2023  
 
-### Sprint2: 13/11/2023 à 27/11/2023
--Sprint Planning: 13/10/2023
--Sprint Review e Deployment: 24/11/2023
--Sprint Retrospective: 27/11/2023
+### Sprint2: 
+Período: 13/11/2023 à 27/11/2023  
+-Sprint Planning: 13/10/2023  
+-Sprint Review e Deployment: 24/11/2023  
+-Sprint Retrospective: 27/11/2023  
