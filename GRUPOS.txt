@@ -1,83 +1,39 @@
-SQUAD1 - GERENCIADOR DE PROJETOS
-
+##SQUAD1 - GERENCIADOR DE PROJETOS
 
 Vanessa Camelo - Scrum Master (vanessaclins2018@gmail.com)
-
-
-VinÌcius Barbosa - Tech Lead
-(viniciusbarboosa58@gmail.com)
-Erick Dawinson - Dev
- (dawisonerick@gmail.com)
-
+Vin√≠cius Barbosa - Tech Lead (viniciusbarboosa58@gmail.com)
+Erick Dawinson - Dev (dawisonerick@gmail.com)
 Rodrigo Malveira - Dev (rodrigomlvr@gmail.com)
-
-
-
-F·bio Bazante - QA
- (fabio-bazante@hotmail.com)
-
-
+F√°bio Bazante - QA (fabio-bazante@hotmail.com)
 Felipe Freitas - QA (felipegrau2023@gmail.com)
 
 
+##SQUAD2 - PIZZARIA
 
-
-SQUAD2 - PIZZARIA
-
-
-
-
-Igor Henrique - Scrum Master
- (igorhenriquegomesdasilva@gmail.com)
-LÈo nascimento - Tech Lead (omgleo@live.com)
-Victor Henrique - DEV
- (victor0406magalhaes@gmail.com)
-
-
-
+Igor Henrique - Scrum Master (igorhenriquegomesdasilva@gmail.com)
+L√©o nascimento - Tech Lead (omgleo@live.com)
+Victor Henrique - DEV (victor0406magalhaes@gmail.com)
 Pedro Brasil - DEV (phxbrasil19@gmail.com)
+Douglas Mikael - QA (correiadouglas512@gmail.com)
+Andr√© farias- QA (andrefarias10@outlook.com.br)
 
 
-Douglas Mikael - QA
- (correiadouglas512@gmail.com)
+##SQUAD3 - GAMESHOP
 
-
-AndrÈ farias- QA (andrefarias10@outlook.com.br)
-
-
-SQUAD3 - GAMESHOP
-
-Ivison - Scrum master (macedocbvmacedo@gmail.com
-)
+Ivison - Scrum master (macedocbvmacedo@gmail.com)
 Matheus Silvestre - Tech lead (silvestrematheus700@gmail.com)
-Italo - DEV (italoravaneli@gmail.com
-)
-Jo„o victor - DEV (devsjoaovicctor@gmail.com)
-
+Italo - DEV (italoravaneli@gmail.com)
+Jo√£o victor - DEV (devsjoaovvictor@gmail.com)
 Jaydson - DEV (jaydson1509@gmail.com)
 Renan - QA (renanbaracho966@gmail.com)
 
 
+##SQUAD4 - P√ÉOD'CASA
 
-
-SQUAD4 - P√OD'CASA
-
-Mateus Alexandre- Scrum Master
- (mateusilvaa356@gmail.com)
-
-
-
+Mateus Alexandre- Scrum Master (mateusilvaa356@gmail.com)
 Pedro leal - Tech lead (pedroh.leal18@gmail.com)
 Daniel henrique - Dev (danielhpp05@gmail.com)
-
-
-Rafael lima - Dev
- (rafinhakazu123@gmail.com)
-
-
+Rafael lima - Dev (rafinhakazu123@gmail.com)
 Wladimir - QA (wladimirfilholins@gmail.com)
-
-
-Erick marques - QA 
-(erickmarque777@gmail.com)
+Erick marques - QA (erickmarque777@gmail.com)
 
