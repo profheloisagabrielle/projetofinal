@@ -4,8 +4,8 @@ Arquivos auxiliares para gerenciamento e administração dos projetos nas ferram
 # Cronograma
 
 ## Disciplina
-Início: 27/10/2023
-Término: 01/12/2023
+Início: 27/10/2023  
+Término: 01/12/2023  
 
 ## Projeto
 Início: 30/10/2023
